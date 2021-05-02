@@ -9,7 +9,7 @@ width: 100%;
 margin: 0px;
 }
 
-#status
+#status, #objects_no
 {
 font-size: 18px;
 }
@@ -17,4 +17,5 @@ font-size: 18px;
 canvas {
     box-shadow: 5px 5px 5px grey;
     border-radius: 20px;
+    margin-top: 30px;
 }
